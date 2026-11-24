@@ -27,6 +27,12 @@ A clean, responsive frontend clone of the **Rapido** bike-taxi and ride-booking 
 - **CSS3 / Bootstrap** — Responsive grid layout, utility styling, and clean UI components
 
 ---
+## Author
+- **Tharun Gundlapally**
+GitHub: @Tharun855
+LinkedIn: Tharun Gundlapally
+Portfolio: tharuncom.netlify.app
+
 
 ## Project Structure
 
@@ -34,10 +40,4 @@ A clean, responsive frontend clone of the **Rapido** bike-taxi and ride-booking 
 Rapido-clone-/
 ├── index.htm       # Main landing page markup and layout
 └── README.md       # Project documentation
-Tharun Gundlapally
 
-GitHub: @Tharun855
-
-LinkedIn: Tharun Gundlapally
-
-Portfolio: tharuncom.netlify.app
