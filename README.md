@@ -28,12 +28,15 @@ A clean, responsive frontend clone of the **Rapido** bike-taxi and ride-booking 
 
 ---
 ## Author
-- **Tharun Gundlapally**
-GitHub: @Tharun855
-LinkedIn: Tharun Gundlapally
-Portfolio: tharuncom.netlify.app
+
+**Tharun Gundlapally**  
+- **GitHub:** [@Tharun855](https://github.com/Tharun855)  
+- **LinkedIn:** [Tharun Gundlapally](https://www.linkedin.com/in/tharun-g-349b5b288/)  
 
 
+
+
+---
 ## Project Structure
 
 ```text
